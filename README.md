@@ -3,7 +3,7 @@
   Hey, I'm Gaurav Tiwari!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<h2>Python developer. </h2>
+<h2>AI/ML Explorer. </h2>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/gauravtiwari26">

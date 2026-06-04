@@ -9,10 +9,10 @@
   <a href="https://www.linkedin.com/in/gauravtiwari26">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://t.me/aldmikon27/">
+  <a href="">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://www.reddit.com/user/DimaChengdu/">
+  <a href="">
   <img src="https://img.shields.io/badge/Reddit-red?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
   </a>
 </div>
@@ -27,7 +27,7 @@
 
 🔭 I love exploring Python, working with data, grokking coding puzzles, and diving into new technologies.
 
-📬 For business inquiries or just a friendly chat: [![Telegram Badge](https://img.shields.io/badge/-aldmikon27-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/aldmikon27/)
+📬 For business inquiries or just a friendly chat: +917763807031
 
 </h4>
 
@@ -64,12 +64,11 @@
 ---
 :briefcase: My projects :
 ---
-- ## [Photo Uploading Service](https://github.com/Baobear520/PhotoUploader)
-    Tags: *#full-stack web app*
+- ## [NY Yellow Taxi Operational Efficiency Improvemnet (EDA)](githublink)
+    Tags: *#Explotary Data Analytics (Panda, Numbpy, Matplotlib, Seaborn)*
   
-    A service for asyncronous uploading and processing images (Django, Celery, Redis, PostgreSQL, Docker)
-
-    [Docs](https://github.com/Baobear520/PhotoUploader/blob/main/README.md) / [Документация](https://github.com/Baobear520/PhotoUploader/blob/main/README.md)
+    EDA of NY taxi with 2023 data to analyse and identify valuable insights for Operations Improvement
+    [Docs](githublink) / [Attachment](githublink)
 
 ---
  - ## [TicketSearchSystem](https://github.com/Baobear520/TicketSearchSystem)
